@@ -12,7 +12,7 @@ export default {
       input: "/js/index.jsx",
       output: {
         format: "umd",
-        entryFileNames: "index.jsx",
+        entryFileNames: "index.js",
         compact: true,
       },
     },
